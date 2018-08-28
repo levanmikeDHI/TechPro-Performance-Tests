@@ -1,0 +1,8 @@
+requests
+locustio
+Faker
+BeautifulSoup
+urllib3
+bokeh
+numpy
+matplotlib
